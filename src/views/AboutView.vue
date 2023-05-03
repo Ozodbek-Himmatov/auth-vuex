@@ -5,9 +5,7 @@
 </template>
 <script>
 export default {
-  
-}
+  name: "The Best About Page Ever",
+};
 </script>
-<style>
-  
-</style>
+<style></style>

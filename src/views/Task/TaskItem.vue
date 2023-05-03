@@ -1,12 +1,11 @@
 <template>
   <div>
-    <h1>The Sweet Home</h1>
-    <router-view></router-view>
+    <h1>Visit Added Tasks Before They Get Some Dust On Them</h1>
   </div>
 </template>
 <script>
 export default {
-  name: 'home',
+  
 }
 </script>
 <style>
